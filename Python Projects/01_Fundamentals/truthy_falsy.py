@@ -1,0 +1,12 @@
+#Demonstrate truthy and falsy values by testing the following with bool()
+#Result=bool(1) 
+#Return True & False when non-zero & non-empty, zero & Empty Respectively 
+print("Result: ",bool(0))
+print("Result: ",bool(1))
+print("Result: ",bool(-10))
+print("Result: ",bool(""))
+print("Result: ",bool("Hello"))
+print("Result: ",bool([]))
+print("Result: ",bool([1,2,3]))
+print("Result: ",bool({}))
+print("Result: ",bool({"name":"Rayasat"}))
