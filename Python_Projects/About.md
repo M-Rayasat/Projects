@@ -16,3 +16,4 @@ my-python-collection/
 ├── 03_String_Manipulation/   # Text processing: Formatting, slicing, and analysis
 ├── 04_Algorithms_Games/      # Logic & Fun: Ciphers, sequences, and games
 ├── 05_Utilities_Apps/        # Real-world: Simulators, validators, and converters
+├── 06_OOP/                   # Object Oriented Programming: Explanation, Classes, Objects
